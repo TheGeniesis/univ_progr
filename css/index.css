@@ -1,0 +1,88 @@
+body.text-size-small {
+    font-size: 1em;
+}
+
+body.text-size-small h1 {
+    font-size: 2.5em;
+}
+
+body.text-size-small h3 {
+    font-size: 1.75em;
+}
+
+body.text-size-medium {
+    font-size: 1.5em;
+}
+
+body.text-size-medium h1 {
+    font-size: 3em;
+}
+
+body.text-size-medium h3 {
+    font-size: 2.50em;
+}
+
+body.text-size-large {
+    font-size: 2em;
+}
+
+body.text-size-large h1 {
+    font-size: 3.5em;
+}
+
+body.text-size-large h3 {
+    font-size: 2.75em;
+}
+
+body.text-contrast-normal {
+    background-color: white;
+    color: black;
+}
+
+body.text-contrast-black {
+    background-color: black;
+    color: white;
+}
+
+body.text-contrast-yellow {
+    background-color: yellow;
+    color: black;
+}
+
+body.text-contrast-byellow {
+    background-color: black;
+    color: yellow;
+}
+
+.top-nav {
+    height: 150px;
+}
+
+.logo {
+ padding-top: 12px;
+}
+
+#text-contrast-btn-normal {
+    background-color: white;
+    color:black;
+    border: 1px solid white;
+}
+
+#text-contrast-btn-black {
+    background-color: black;
+    color:white;
+    border: 1px solid white;
+}
+
+#text-contrast-btn-yellow {
+    background-color:yellow;
+    color:black;
+    border: 1px solid white;
+}
+
+#text-contrast-btn-byellow {
+    background-color:black;
+    color:yellow;
+    border: 1px solid white;
+}
+
